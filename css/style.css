@@ -106,6 +106,16 @@ a:active {
   color: white;
 }
 
+.wildlife-header {
+  padding-top: 170px;
+  height: 850px;
+  background: linear-gradient(#ffa949, transparent 90%),
+              linear-gradient(0deg, #fff, transparent),
+              #ffa949 url('../img/mountains.jpg') no-repeat center;
+  background-size: cover;
+  color: white;
+}
+
 .title {
 
   font-size: 1.625rem; /* 26px/16px */
