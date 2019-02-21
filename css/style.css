@@ -134,7 +134,8 @@ a:active {
 .primary-content,
 .main-header,
 .main-footer,
-.wildlife-header {
+.wildlife-header,
+.wildlife-footer {
   text-align: center;
 }
 
@@ -161,6 +162,12 @@ a:active {
   padding-top: 60px;
   padding-bottom: 60px;
   border-bottom: 10px solid #ffa949;
+}
+
+.wildlife-footer {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  border-bottom: 10px solid #99c2ff;
 }
 
 .t-border {
