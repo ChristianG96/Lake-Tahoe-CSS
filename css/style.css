@@ -111,7 +111,7 @@ a:active {
   height: 850px;
   background: linear-gradient(#99c2ff, transparent 90%),
               linear-gradient(0deg, #fff, transparent),
-              #ffa949 url('../img/mountains.jpg') no-repeat center;
+              #ffa949 url('../img/ducks on water.jpg') no-repeat center;
   background-size: cover;
   color: white;
 }
@@ -182,7 +182,7 @@ a:active {
   color: white;
   text-align: left;
   padding: 18% 24%;
-  border-top: 10px solid #ffa949;
+  border-top: 10px solid #99c2ff;
   margin: 105px 0 60px;
   background: #434a52 url('../img/bear.jpg') no-repeat center;
   background-size: cover;
